@@ -8,7 +8,7 @@ The goal of this project is to determine how the breakeven probability of the po
 
 # Contents
 The Jupyter Notebook consists of the following sections:
-- Variation in probability of at least 1 success with the number of ventures
-- Variation in the probability of at least 1 success with the probability of success of each venture
-- Variation in the probability of at least 1 success with both variables
+- Variation in the breakeven probability of the portfolio with the number of ventures
+- Variation in the breakeven probability of the portfolio with the probability of success of each venture
+- Variation in the breakeven probability of the portfolio with both variables
 - Insights
